@@ -14,12 +14,13 @@ Please use the dataset to investigate and provide insights on the questions belo
 
 
 Requested insights from management
+
 • CarCompany loses money if we provide a Guaranteed Price (GP) higher than the sold price. What is the distribution where GP is higher 
 than the sold price, equal to the sold price, and lower than the sold price? Are there any other interesting splits we can do to analyze this further?
 
 
 • Not all guaranteed prices provided by CarCompany get accepted by our customers. What percentage of provided GPs are accepted? 
-What the ranking of employees (guaranteed_price_provider) based on acceptance rate? What more can we look into in relation to 
+What is the ranking of employees (guaranteed_price_provider) based on acceptance rate? What more can we look into in relation to 
 acceptance of guaranteed prices?
 
 
